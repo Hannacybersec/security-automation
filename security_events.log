@@ -1,0 +1,6 @@
+LOGIN_FAILED user=admin ip=192.0.2.10
+LOGIN_FAILED user=admin ip=192.0.2.10
+LOGIN_FAILED user=admin ip=192.0.2.10
+ROLE_CHANGED user=alice old_role=user new_role=admin
+SUSPICIOUS_ACCESS user=bob resource=admin_panel
+LOGIN_SUCCESS user=carol ip=192.0.2.20
